@@ -57,10 +57,10 @@ streamlit run main.py
 
 ## Authors
 Developed by:
-- Srikant
+- Srikant Ravi Jois
 - Chandana Alagod
-- Shishir
-- Meenakshi
+- Shishir Ravi Jois
+- Meenakshi Nair
 
 ## License
 This project is intended for academic and learning use.
