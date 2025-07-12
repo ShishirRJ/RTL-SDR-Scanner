@@ -57,9 +57,9 @@ streamlit run main.py
 
 ## Authors
 Developed by:
-- Srikant Ravi Jois
-- Chandana Alagod
+- Srikanth Ravi Jois
 - Shishir Ravi Jois
+- Chandana Alagod
 - Meenakshi Nair
 
 ## License
